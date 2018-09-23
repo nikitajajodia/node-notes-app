@@ -10,6 +10,9 @@ var result = notes.addNote();
 console.log("result", result);
 
 var user = os.userInfo();
+console.log("values", _.isString(true));
+console.log("values", _.isString('true'));
+console.log("values", _.uniq([1,3,4,1, 'test', 5,6,9,6, 'test']));
 
 // Original Line
 // fs.appendFile('greetings.text', 'Hello');

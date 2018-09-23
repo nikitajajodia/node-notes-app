@@ -10,5 +10,6 @@
     "lodash": "^4.17.11"
   },
   "author": "Nikita Jajodia",
+  "repository": "https://github.com/nikitajajodia/node-notes-app.git",
   "license": "ISC"
 }
